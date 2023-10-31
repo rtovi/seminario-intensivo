@@ -1,0 +1,5 @@
+spotipy
+findspark
+pyspark
+psycopg2
+pandas
